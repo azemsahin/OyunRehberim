@@ -1,0 +1,50 @@
+header{
+    position: absolute;
+    height: 40px;
+    right: 0;
+    left: 0;
+    top: 0;
+    background-color: rgb(250, 60, 60);   
+}
+section{
+
+    position: absolute;
+    top: 50px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+
+}
+.ul{
+    position: absolute;
+    display: inline;
+    right: 10px;
+    top: -5px;
+
+    
+}
+.gray{
+    color:#202020;
+}
+.li{
+    list-style: none;
+    display: inline-flex;  
+    margin-left: 10px;
+}
+h1{
+    margin: 0;
+    display: inline-block;
+    
+}
+
+/*Post Sayfası için Css*/
+
+c{
+    padding-left: 15px
+}
+.ta{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
